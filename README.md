@@ -1,4 +1,4 @@
-# Project Title
+# Simple CXL Simulator
 
 ## Table of Contents
 
@@ -10,6 +10,8 @@
 ## About <a name = "about"></a>
 
 Write about 1-2 paragraphs describing the purpose of your project.
+CXL (Compute eXpress Link) is  
+The system of Simulation is b
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -43,4 +45,8 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+```bash
+make clean; make
+./runfile
+
+```
